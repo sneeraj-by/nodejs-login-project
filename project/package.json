@@ -1,0 +1,14 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "login project with javascript nodejs and mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraj Swarnkar",
+  "license": "ISC"
+}
+
+// install all dependancy in one go with below cmd
+// npm install express ejs bcrypt passport passport-local express-flash express-session dotenv -g --force nodemon
